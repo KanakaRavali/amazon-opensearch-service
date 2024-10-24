@@ -33,7 +33,7 @@
 
 
     After 10-15mins Your Domain Will Be Ready
-    ![](8-domain-ready.png)
+    ![](endpoint.png)
 
 2. Upload Documents 
 
