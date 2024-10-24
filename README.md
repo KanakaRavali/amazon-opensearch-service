@@ -5,35 +5,35 @@
 1. Create Domain
 
     Select Create Domain 
-    ![](pictures/1-Domain.png)
+    ![](1-Domain.png)
 
 
     Enter a Domain Name. Select Development and Testing for Deployment Type
-    ![](pictures/2-dev-testing.png)
+    ![](2-dev-testing.png)
 
 
     Select `t3.small.search` Node Type
-    ![](pictures/3-data-nodes.png)
+    ![](3-data-nodes.png)
 
 
     Select `Public access`
-    ![](pictures/4-network.png)
+    ![](4-network.png)
 
 
     Select `create master user` and Enter Username/Password 
-    ![](pictures/5-access-control.png)
+    ![](5-access-control.png)
 
 
     Select `only use fine-grain control`
-    ![](pictures/6-access-policy.png)
+    ![](6-access-policy.png)
 
 
     Select `create`
-    ![](pictures/7-create-domain.png)
+    ![](7-create-domain.png)
 
 
     After 10-15mins Your Domain Will Be Ready
-    ![](pictures/8-domain-ready.png)
+    ![](8-domain-ready.png)
 
 2. Upload Documents 
 
@@ -62,24 +62,24 @@
     ```
 
     Once on the dashboard click `Discover` on the left handside
-    ![](pictures/9-discover.png)
+    ![](9-discover.png)
 
     Click `Create index pattern`
-    ![](pictures/10-create-index.png)
+    ![](10-create-index.png)
 
     Type `movies` into the text input box and click `Next Step`
-    ![](pictures/12-define-index-pattern.png)
+    ![](12-define-index-pattern.png)
 
     Click `Create Index`
-    ![](pictures/13-createe-index-pattern.png)
+    ![](13-createe-index-pattern.png)
 
     The searchable index pattern will be created and the fields listed
-    ![](pictures/14-index-fields.png)
+    ![](14-index-fields.png)
 
     Click the hamburger menu on the left hand side and click `Discovery` again. 
     The searchable index will now appear. 
-    ![](pictures/15-discovery-search.png)
+    ![](15-discovery-search.png)
 
 5. Delete a domain 
 
-    ![](pictures/16-delete-domain.png)
+    ![](16-delete-domain.png)
